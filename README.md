@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 `Mohammed Shafi` here
 
-Everything is private.
-Sorry.
-Public Repositories on my public github profile
-Thanks for stopping by ❤️
+- Everything is private.
+- Sorry.
+- Public Repositories are on my public github profile
+- Thanks for stopping by ❤️
